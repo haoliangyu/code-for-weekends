@@ -2,6 +2,12 @@
 
 > Hacking creates fun.
 
+## Graduated
+
+* [w3c-dcat](https://github.com/haoliangyu/w3c-dcat)
+
+  A utility library to create and convert dataset metadata with W3C DCAT in JSON
+
 ## Work in Progress
 
 * [ipfs-web-explorer](https://github.com/haoliangyu/ipfs-web-explorer)
