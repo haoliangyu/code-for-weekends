@@ -4,6 +4,10 @@
 
 ## Graduated
 
+* [ecs-auto-deploy](https://github.com/haoliangyu/ecs-auto-deploy)
+
+  A example project on how to build CI pipleline to AWS ECS with Travis CI
+
 * [w3c-dcat](https://github.com/haoliangyu/w3c-dcat)
 
   A utility library to create and convert dataset metadata with W3C DCAT in JSON
