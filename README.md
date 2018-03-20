@@ -12,7 +12,7 @@
 
   An component-based utility library to convert GeoJSON to different format, forward and backward
 
-* [ngx-leaflet-starter]
+* [ngx-leaflet-starter](https://github.com/haoliangyu/ngx-leaflet-starter)
 
   A example project on how to integrate Angular, Material Design, and Leaflet
 
@@ -20,7 +20,7 @@
 
   PostgreSQL client library with [rxjs](http://reactivex.io/) interface
 
-* [pymasker]
+* [pymasker](https://github.com/haoliangyu/pymasker)
 
   A python library to create masks from Landsat and MODIS images 
 
